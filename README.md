@@ -20,7 +20,7 @@
   
 ## System Design
   - ### System Requirements
-    <h3>전체 시스템 구성도</h3>
+    <!-- <h3>전체 시스템 구성도</h3> -->
     ![시스템기능도](https://user-images.githubusercontent.com/77065758/205566586-425eb0c8-41e6-4d9a-9320-36fdd8efa629.png)
     <h3>기능별 상세 요구사항</h3>
     ![기능](https://user-images.githubusercontent.com/77065758/205566507-facab19c-1ba0-4d74-9467-c562643e8040.png)
