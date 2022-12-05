@@ -1,0 +1,35 @@
+{
+  "version": "KorQuAD_v1.0_dev",
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "answers": [
+                {
+                  "text": "",
+                  "answer_start": 1
+                }
+              ],
+              "id": "1",
+              "question": "\ub2e4\ub974\ud478\ub974 \ubd84\uc7c1 \ub2f9\uc2dc \uc720\uc5d4 \uc548\uc804 \ubcf4\uc7a5 \uc774\uc0ac\ud68c\uc5d0 \uc758\ud574 \ubd84\uc7c1 \uc9c0\uc5ed\uc73c\ub85c\uc758 \uc9c4\uc785\uc774 \uc2b9\uc778 \ub41c \uc720\uc5d4 \ud3c9\ud654\uc720\uc9c0\uad70\uc740 \ucd1d \uba87\uba85\uc778\uac00?"
+            },
+{
+              "answers": [
+                {
+                  "text": "",
+                  "answer_start": 1
+                }
+              ],
+              "id": "2",
+              "question": "\ub2e4\ub974\ud478\ub974 \ubd84\uc7c1 \ub2f9\uc2dc \uc720\uc5d4 \uc548\uc804 \ubcf4\uc7a5 \uc774\uc0ac\ud68c\uc5d0 \uc758\ud574 \ubd84\uc7c1 \uc9c0\uc5ed\uc73c\ub85c\uc758 \uc9c4\uc785\uc774 \uc2b9\uc778 \ub41c \uc720\uc5d4 \ud3c9\ud654\uc720\uc9c0\uad70\uc740 \ucd1d \uba87\uba85\uc778\uac00?"
+            }
+          ],
+        "context": "2007\ub144 7\uc6d4 31\uc77c \uc720\uc5d4 \uc548\uc804 \ubcf4\uc7a5 \uc774\uc0ac\ud68c\ub294 26,000\uba85\uc758 \uc720\uc5d4 \ud3c9\ud654\uc720\uc9c0\uad70 \ubcd1\ub825\uc774 \uc544\ud504\ub9ac\uce74 \uc5f0\ud569\uad70\uacfc \ud569\uc138\ud574 \ubd84\uc7c1 \uc9c0\uc5ed\uc73c\ub85c \uc9c4\uc785\ud558\ub294 \uac83\uc744 \uc2b9\uc778\ud558\uc600\uace0, \ud574\ub2f9 \uc9c0\uc5ed\uc5d0\uc11c \uc720\uc5d4 \ud3c9\ud654\uc720\uc9c0\uad70\uc758 \ud65c\ub3d9\uc740 2007\ub144 10\uc6d4\ubd80\ud130 \uc2dc\uc791\ub418\uc5c8\ub2e4."
+      }
+    ],
+    "title": "\ub514\uc9c0\ud138 \uc601\uc0c1\ucc98\ub9ac"
+  }
+]
+}
