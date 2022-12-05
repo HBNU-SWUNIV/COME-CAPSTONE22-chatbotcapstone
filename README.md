@@ -20,8 +20,10 @@
   
 ## System Design
   - ### System Requirements
-    - OOO
-    - OOO
+    - ![기능](https://user-images.githubusercontent.com/77065758/205566507-facab19c-1ba0-4d74-9467-c562643e8040.png)
+    - ![시스템기능도](https://user-images.githubusercontent.com/77065758/205566586-425eb0c8-41e6-4d9a-9320-36fdd8efa629.png)
+    - ![PDFMRC](https://user-images.githubusercontent.com/77065758/205566623-6231fd56-d1ae-4ee8-9841-08c156c76e76.png)
+    - ![WIKIMRC](https://user-images.githubusercontent.com/77065758/205566643-d9a7c793-628c-4fa5-a733-6648e718d59a.png)
     
 ## Case Study
   - ### Description
