@@ -36,10 +36,10 @@
     - 298쌍의 질의응답을 228/70쌍으로 분할하고 학습과 테스트에 교차 적용하여 실험을 진행.
     - 문장형 답변 179개, 단답형 답변 49개로 구성되어 있고, 70쌍의 질의응답은 문장형 답변 51개, 단답형 19개로 구성.
   - ### 성능 및 테스트
-    - ![성능](https://user-images.githubusercontent.com/77065758/205577081-dc784b58-7690-4971-bc8e-428d43c739b7.png)
+    - ![성능](https://user-images.githubusercontent.com/77065758/205581470-40550c63-80d5-470b-b394-5b45c4b2a5f2.png)
   - ### 결과
     - #### 응답 형식
-      - ![응답 형식](https://user-images.githubusercontent.com/77065758/205577191-edac0568-f376-420f-bd7b-fc737bf30407.png)
+      - ![응답 형식](https://user-images.githubusercontent.com/77065758/205581462-a3e3ea08-9816-4b84-b8c6-4ac556cf015e.png)
       - 문장형 답변을 학습한 모델은 상대적으로 답변을 문장형으로 예측하는 결과
     - #### 챗봇 페이지
       - ![결과](https://user-images.githubusercontent.com/77065758/205577447-2367f07f-9fcb-4158-bbe3-8bca9c03e98e.png)
