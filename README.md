@@ -1,4 +1,6 @@
-# 한밭대학교 컴퓨터공학과 챗봇캡스톤팀
+# 한밭대학교 컴퓨터공학과
+
+<img src="https://capsule-render.vercel.app/api?type=Wave&color=auto&height=250&section=header&text=챗봇%캡스톤&fontSize=90" />
 
 **팀 구성**
 - 20171612 박상현
@@ -24,7 +26,10 @@
       - ![PDFMRC](https://user-images.githubusercontent.com/77065758/205566623-6231fd56-d1ae-4ee8-9841-08c156c76e76.png)
     - #### PDF 기계독해
       - ![WIKIMRC](https://user-images.githubusercontent.com/77065758/205566643-d9a7c793-628c-4fa5-a733-6648e718d59a.png)
-
+  - ### Skill
+    - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/>
+    - <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"/>
 ## Case Study
   - ### Description
     - 한국어 기계독해를 위한 표준 데이터셋으로는 KorQuAD 1.0을 이용.
@@ -49,4 +54,5 @@
     - 온라인 교육환경에서 다양한 과목에 대하여 챗봇 시스템을 이용할 수 있다.
 
 ## Project Outcome
-- ### 2022년 제34회 한글 및 한국어 정보처리 학술대회 참가
+- ### 2022년 제34회 한글 및 한국어 정보처리 학술대회 포스터발표
+  - 교육환경에서의 기계독해 기반 질의응답 시스템. 주준하, 박상현, 남승완, 임경태 (한밭대학교) [논문다운로드](https://drive.google.com/file/d/1NOINmf4DOXgueN9zqvTRbq4rVj-EjzIa/view?usp=share_link)
