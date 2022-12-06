@@ -56,3 +56,4 @@
 ## Project Outcome
 - ### 2022년 제34회 한글 및 한국어 정보처리 학술대회 포스터발표
   - 교육환경에서의 기계독해 기반 질의응답 시스템. 주준하, 박상현, 남승완, 임경태 (한밭대학교) [논문다운로드](https://drive.google.com/file/d/1NOINmf4DOXgueN9zqvTRbq4rVj-EjzIa/view?usp=share_link)
+- ### 2022년 한밭대학교 컴퓨터공학과 캡스톤디자인 작품전시회 
