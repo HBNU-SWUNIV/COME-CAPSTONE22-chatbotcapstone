@@ -26,12 +26,12 @@
   - ### Web System 
   
      - #### 프로젝트 개요
-      ![프로잭트 개요](https://user-images.githubusercontent.com/77065758/206148602-29d0df01-7aa9-4894-a814-44d9af85d374.PNG)
       - 강의자는 강의와 교안을 업로드 하고 수강자는 기계독해 챗봇을 통해 강의에 대한 질의 응답을 수행 할수 있다.
+      ![프로잭트 개요](https://user-images.githubusercontent.com/77065758/206148602-29d0df01-7aa9-4894-a814-44d9af85d374.PNG)
       
     - #### 웹 시스템 디자인
-      ![프로젝트 시스템](https://user-images.githubusercontent.com/77065758/206148910-ba645b77-3f55-4ba4-a0da-d1cd76490b9b.PNG)
       - React를 이용해 Client를 구성하고 강의, 수강 관리 server는 Node, MongoDB로 구성. 챗봇 서버는 Flask를 이용해 구현
+      ![프로젝트 시스템](https://user-images.githubusercontent.com/77065758/206148910-ba645b77-3f55-4ba4-a0da-d1cd76490b9b.PNG)
       
       - #### 강의 업로드
         ![강의 업로드](https://user-images.githubusercontent.com/77065758/206151041-f62e4902-a3e8-43cd-bee3-da30c25da43b.PNG)
